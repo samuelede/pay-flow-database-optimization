@@ -11,20 +11,20 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset Mapping (Olist → Pay-Flow)](#dataset-mapping-olist--pay-flow)
-- [Technologies & Tools](#technologies--tools)
-- [Step-by-Step What This Repository Does](#step-by-step-what-this-repository-does)
+- [Project Overview](#-project-overview)
+- [Dataset Mapping (Olist → Pay-Flow)](#-dataset-mapping-olist--pay-flow))
+- [Technologies & Tools](#-technologies--tools)
+- [Step-by-Step What This Repository Does](#-step-by-step-what-this-repository-does)
   - [Phase 1: Project Setup & Version Control](#phase-1-project-setup--version-control)
   - [Phase 2: Professional Data Modeling (PostgreSQL)](#phase-2-professional-data-modeling-postgresql)
-  - [Phase 3: Python-Driven ETL Automation](#phase-3-python-driven-etl-automation)
+  - [Phase 3: Python-Driven ETL Automation](#phase-3-python-driven-etl-automation-python)
   - [Phase 4: Analytical Layer & Business Intelligence](#phase-4-analytical-layer--business-intelligence)
   - [Phase 5: Optimization & Fintech Readiness](#phase-5-optimization--fintech-readiness)
-- [Repository Structure](#repository-structure)
-- [Quick Start (Local Setup)](#quick-start-local-setup)
-- [Learning Outcomes You Will Gain](#learning-outcomes-you-will-gain)
-- [Dataset Download](#dataset-download)
-- [Connect & Contribute](#connect--contribute)
+- [Repository Structure](#-repository-structure)
+- [Quick Start (Local Setup)](#-quick-start-local-setup)
+- [Learning Outcomes You Will Gain](#-learning-outcomes-you-will-gain)
+- [Dataset Download](#-dataset-download)
+- [Connect & Contribute](#-connect--contribute)
 
 ---
 
