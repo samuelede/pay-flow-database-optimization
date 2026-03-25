@@ -21,6 +21,7 @@
   - [Phase 4: Analytical Layer & Business Intelligence](#phase-4-analytical-layer--business-intelligence)
   - [Phase 5: Optimization & Fintech Readiness](#phase-5-optimization--fintech-readiness)
 - [Repository Structure](#-repository-structure)
+- [Schema Design Diagram](https://github.com/samuelede/pay-flow-database-optimization/blob/main/docs/schema_diagram.md)
 - [Quick Start (Local Setup)](#-quick-start-local-setup)
 - [Learning Outcomes You Will Gain](#-learning-outcomes-you-will-gain)
 - [Dataset Download](#-dataset-download)
@@ -60,7 +61,7 @@ The project solves three critical enterprise challenges faced by fintech teams:
 - **Database**: PostgreSQL 16 (with proper indexing & constraints)
 - **Language**: Python 3.11 (pandas + psycopg2 for ETL automation)
 - **Version Control**: Git + GitHub (branching strategy for SQL & Python)
-- **Schema Design**: 3NF + Star-Schema analytical layer
+- **[Schema Design](https://github.com/samuelede/pay-flow-database-optimization/blob/main/docs/schema_diagram.md)**: 3NF + Star-Schema analytical layer
 - **Automation**: Python scripts that generate, migrate, and populate tables
 
 ---
