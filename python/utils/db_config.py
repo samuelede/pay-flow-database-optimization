@@ -13,8 +13,8 @@ from pathlib import Path
 DB_CONFIG = {
     "host": os.getenv("DB_HOST", "localhost"), # replace with server name
     "database": os.getenv("DB_NAME", "payflow_db"), # replace with your exact db name
-    "user": os.getenv("DB_USER", "postgres"),
-    "password": os.getenv("DB_PASSWORD", "Postgres123@@@"), # replace with your password
+    "user": os.getenv("DB_USER", ""),
+    "password": os.getenv("DB_PASSWORD", ""), # replace with your password
     "port": os.getenv("DB_PORT", "5432"),
 }
 
